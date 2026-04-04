@@ -1,6 +1,5 @@
 AeroMinds — PM2.5 Forecasting (AISEHack Theme 2)
-Team
-
+Team Members
 Dhanush T (Dhanushthiyaree06)
 Kavin M (kavin182005)
 Kabilan K (suryaprakash01)
