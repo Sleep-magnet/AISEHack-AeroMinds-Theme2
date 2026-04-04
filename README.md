@@ -46,6 +46,6 @@ Coordinates + correlation loss → score dropped from 0.8745 → 0.70
 Repository Structure
 ├── notebooks/
 │   ├── first.ipynb          # Best Phase 2 notebook (score: 0.8745)
-│   ├── phase1_best.ipynb    # Best Phase 1 notebook (score: 12.562)
+│   ├── first(1).ipynb    # Best Phase 1 notebook (score: 12.562)
 ├── README.md
 └── LICENSE
