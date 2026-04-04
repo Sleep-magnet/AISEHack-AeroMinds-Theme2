@@ -1,5 +1,5 @@
 ANRF Open License
-Copyright © [Year] [Name of Contributor]
+Copyright © 2026 [Dhanush THiyaree]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this work
 and associated documentation files, which may include software code, datasets, trained
 or untrained AI models, workflows, documentation, and related tooling, and any derivates
